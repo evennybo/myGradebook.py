@@ -1,0 +1,7 @@
+Al 78 85 74 65 
+Bea 85 91 94 90
+Carl 79 65 88 93
+Diane 94 96 88 93
+Edward 85 65 74 93
+Frances 92 85 45 23
+Gulliver 65 48 55 92
